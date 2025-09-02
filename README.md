@@ -16,5 +16,3 @@
 `HTML` · `CSS` · `JavaScript` · `React` · `TailwindCSS` · `Vite` · `Next.js` · `TypeScript` · `Git`
 
 ---
-# 99_pet_projects_frontend
-# 99_pet_projects_frontend
